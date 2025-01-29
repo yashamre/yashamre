@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashamre&label=Profile%20views&color=0e75b6&style=flat" alt="yashamre" /> </p>
 
-- 🔭 I’m currently working on **R Language**
+- 🔭 I’m currently working on getting advanced skills into **Machine Learning**
 
-- 🌱 I’m currently learning **Data Structure & Algorithm**
-
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Data Analytics, Python and Machine Learning** doubts
 
 - 📫 How to reach me **yashamre2@gmail.com**
 
